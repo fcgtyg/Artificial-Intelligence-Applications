@@ -1,0 +1,16 @@
+Alan-Dan,Jack,Jeff,Jill,Joe,Kim,Sue
+Bill-Jack,Joe,John,Kim,Nick,Sue,Tom
+Dan-Alan,Jeff,Mike,Nick,Sam,Tom,Will
+Dave-Jeff,John,Mike,Nick,Sue,Tom,Will
+Jack-Alan,Bill,Jill,John,Nick,Sam,Sue
+Jeff-Alan,Dan,Dave,John,Sam,Tom,Will
+Jill-Alan,Jack,Joe,John,Kim,Sam,Sue
+Joe-Alan,Bill,Jill,Mike,Nick,Tom,Will
+John-Bill,Dave,Jack,Jeff,Jill,Kim,Sam
+Kim-Alan,Bill,Jill,John,Mike,Nick,Will
+Mike-Dan,Dave,Joe,Kim,Sam,Sue,Tom
+Nick-Bill,Dan,Dave,Jack,Joe,Kim,Sue
+Sam-Dan,Jack,Jeff,Jill,John,Mike,Will
+Sue-Alan,Bill,Dave,Jack,Jill,Mike,Nick
+Tom-Bill,Dan,Dave,Jeff,Joe,Mike,Will
+Will-Dan,Dave,Jeff,Joe,Kim,Sam,Tom
